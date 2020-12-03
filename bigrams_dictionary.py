@@ -1,4 +1,5 @@
 import bigrams as bigrams
+import numpy as np
 bigrams_dictionary = {}
 letters_dictionary = {}
 bigrams_starting_with_letter = {}
